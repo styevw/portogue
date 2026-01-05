@@ -16,7 +16,6 @@ document.addEventListener("DOMContentLoaded", () => {
     { id: "about", label: "Tentang" },
     { id: "projects", label: "Proyek" },
     { id: "links", label: "Tautan" },
-    { id: "contact", label: "Kontak" },
   ];
 
   function openCmd() {
